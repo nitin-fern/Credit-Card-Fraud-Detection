@@ -2,7 +2,7 @@
 
 I have used various Machine Learning algorithms to detect frauds in credit card transaction data. This repository contains codes and reports of the model evaluation results. In summary, the following were the results after training the classification models.
 
-| |**Precision | Recall | F1 score | ROC_AUC score** |
+| |**Precision** | **Recall** | **F1 score** | **ROC_AUC score** |
 |---|---|---|---|---|
 | **SGD Classifier (SGD)** | 0.88 | 0.59 | 0.71 | 0.95 |
 | **Logistic Regression (LR)** | 0.89 | 0.65 | 0.75 | 0.97 |
